@@ -55,6 +55,8 @@ The script reads from sample\_reviews.csv and extracts key themes to generate a 
 ## **Mockups & Diagrams**
 
 Visual artifacts for this project can be found in the /docs folder:
+* **System diagrams:** [STS Pipeline](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/flow1.png?raw=true), [AI Review Flow](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/flow2.png?raw=true)
+* **Mockups:**
 
-* [Before vs. After Mockup](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/flow1.png?raw=true)  
-* [Data Pipeline Flowchart](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/flow2.png?raw=true)
+  * The Search UI: [Before](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/meesho_before.png?raw=true) → [After](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/meesho_after.png?raw=true)
+  * [M-trusted explainer page](https://github.com/bhuvnesh-agg/Meesho-DICE-2/blob/main/docs/meesho_description.png?raw=true)
