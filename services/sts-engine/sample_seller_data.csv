@@ -1,0 +1,6 @@
+seller_id,quality_returns_rate,order_accuracy_rate,on_time_dispatch_rate,avg_rating
+seller_A_premium,0.005,99.5,99.0,4.8
+seller_B_average,0.025,97.0,95.0,4.1
+seller_C_poor,0.06,92.0,88.0,3.2
+seller_D_good,0.01,99.0,98.0,4.5
+seller_E_new,0.03,96.0,94.0,3.9
