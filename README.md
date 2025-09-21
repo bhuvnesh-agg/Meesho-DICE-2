@@ -44,6 +44,7 @@ The script reads from sample\_seller\_data.csv and calculates the STS based on q
 ### **2\. AI Review Analyzer**
 
 This service simulates the NLP model that generates a "pros and cons" summary from user reviews. For this PoC, it uses a keyword-based approach to demonstrate the principle.  
+**Note on the implementation:** Our final proposed solution uses a sophisticated transformer model like BERT for contextual understanding. For this Proof of Concept, we have built a smart, keyword-based script that effectively simulates the intended functionality and demonstrates the value of the AI summary feature without the overhead of a full ML model.
 **To run the simulation:**  
 ```
 cd services/review-analyzer  
