@@ -34,8 +34,10 @@ This repository contains Python scripts that simulate the two core backend servi
 
 This service calculates a data-driven score for each seller to determine if they earn the M-trusted badge.  
 **To run the simulation:**  
+```
 cd services/sts-engine  
 python simulate\_sts.py
+```
 
 The script reads from sample\_seller\_data.csv and calculates the STS based on quality returns, fulfillment accuracy, and average ratings.
 
@@ -43,8 +45,10 @@ The script reads from sample\_seller\_data.csv and calculates the STS based on q
 
 This service simulates the NLP model that generates a "pros and cons" summary from user reviews. For this PoC, it uses a keyword-based approach to demonstrate the principle.  
 **To run the simulation:**  
+```
 cd services/review-analyzer  
 python analyze\_reviews.py
+```
 
 The script reads from sample\_reviews.csv and extracts key themes to generate a summary for each product.
 
